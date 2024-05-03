@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reactapp/static/css/main.3ec01ae7.css",
+    "main.js": "/reactapp/static/js/main.cc953d85.js",
+    "static/js/453.6333456e.chunk.js": "/reactapp/static/js/453.6333456e.chunk.js",
+    "static/media/16.webp": "/reactapp/static/media/16.8a8fc1075a3c05049089.webp",
+    "static/media/04.jpg": "/reactapp/static/media/04.72aa75d93e310816822e.jpg",
+    "static/media/14.jpg": "/reactapp/static/media/14.0b31e5ad90a2747622af.jpg",
+    "static/media/10.jpg": "/reactapp/static/media/10.d43289898e488d0423ea.jpg",
+    "static/media/02.jpg": "/reactapp/static/media/02.f1fa9c215d8559055fa9.jpg",
+    "static/media/12.png": "/reactapp/static/media/12.ce268b892cc18021e30f.png",
+    "static/media/07.jpg": "/reactapp/static/media/07.1cbded157b761eed545d.jpg",
+    "static/media/05.jpg": "/reactapp/static/media/05.12ca044b7e3967b6d52d.jpg",
+    "static/media/11.jpeg": "/reactapp/static/media/11.3dfa0efcb4e43ea805dd.jpeg",
+    "static/media/13.webp": "/reactapp/static/media/13.e3f039f93985bf795177.webp",
+    "static/media/03.jpg": "/reactapp/static/media/03.85203a8d0e8a842ad0f3.jpg",
+    "static/media/09.jpg": "/reactapp/static/media/09.cb35626d8bc0e1dc349d.jpg",
+    "static/media/06.jpg": "/reactapp/static/media/06.632b3c3fb31d580de27d.jpg",
+    "static/media/01.jpg": "/reactapp/static/media/01.a00b731c0cac008a12b6.jpg",
+    "static/media/08.jpg": "/reactapp/static/media/08.953959b9d28a2bb9f4da.jpg",
+    "index.html": "/reactapp/index.html",
+    "main.3ec01ae7.css.map": "/reactapp/static/css/main.3ec01ae7.css.map",
+    "main.cc953d85.js.map": "/reactapp/static/js/main.cc953d85.js.map",
+    "453.6333456e.chunk.js.map": "/reactapp/static/js/453.6333456e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ec01ae7.css",
+    "static/js/main.cc953d85.js"
+  ]
+}
