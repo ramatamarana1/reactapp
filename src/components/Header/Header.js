@@ -11,7 +11,7 @@ function Header() {
       
       <ul className='menu'>
         
-                <li><Link to='/'className='link'>Home</Link></li>
+                <li><Link to='/reactapp'className='link'>Home</Link></li>
         <li><Link to='about'className='link'>about</Link></li>
         <li><Link to='service'className='link'>accessories</Link></li>
         <li><Link to='contact'className='link'>contact</Link></li>
